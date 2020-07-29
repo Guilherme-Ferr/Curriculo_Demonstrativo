@@ -1,0 +1,141 @@
+#corpo{
+    border: solid 1px;
+    border-color: black;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+    height: 1520px;
+    font-family: arial;
+}
+#nomeCompleto{ 
+    width: 900px;
+    height: 175px;
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+    border: solid 0px;
+}
+#nome{    
+    font-size: 60px;
+    text-align: center;
+}
+.subtitulo{    
+    font-size: 25px;
+    text-align: center;
+    padding-bottom: 25px;
+    border-bottom: dashed 1px black;
+}
+#informacoes{
+    border: solid 0px;   
+    width: 900px;
+    height: 140px;
+    margin-left: auto;
+    margin-right: auto;       
+    text-align: center; 
+    border-bottom: dashed 1px black;
+}
+#linguas{
+    width: 290px;
+    height: 130px;
+    float: left;
+    border-right: dashed 1px black;    
+}
+#contatos{
+    border: solid 0px;
+    width: 290px;
+    height: 100x;
+    float: left;
+    border-right: dashed 1px black;
+}
+#softwares{
+    border: solid 0px;
+    width: 290px;
+    height: 120px;
+    float: left;
+}
+.subtopicos{    
+    text-align: left;    
+    font-size: 15px;
+    padding-bottom: 5px;
+    margin-left: 50px;
+}
+#interesses{
+    width: 900px;
+    height: 170px;
+    margin-left: auto;
+    margin-right: auto; 
+    border: solid 0px black;
+    border-bottom: dashed 1px black;  
+}
+.linha1{
+    width: 900px;
+    height: 35px;;    
+    font-size: 30px;
+    text-align: left;    
+}
+#educacao{
+    width: 900px;
+    height: 230px;
+    margin-left: auto;
+    margin-right: auto;          
+    border-bottom: dashed 1px black;    
+}
+#meusInteresses{
+    text-align: left;    
+    font-size: 15px;
+    padding-bottom: 5px;
+}
+.ladoEsquerdo{
+    width: 230px;
+    height: 150px;
+    border: solid 0px;
+    float: left;
+    margin-bottom: 20px;
+}
+.ladoDireito{
+    width: 665px;
+    height: 200px;
+    border: solid 0px;
+    float: right;
+    margin-top: 60px;
+}
+#experiencia{
+    width: 900px;
+    height: 550px;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid 0px;
+    border-bottom: dashed 1px;
+}
+.ladoDireito2{
+    width: 665px;
+    height: 170px;
+    border: solid 0px;
+    float: right;  
+}
+#habilidades{
+    width: 900px;
+    height: 125px;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid 0px;
+}
+.minhasHabilidades{
+    width: 180px;
+    height: 35px;
+    text-align: center;
+    float: left;
+    border-right: dashed 1px black;
+}
+.topicosHabilidades{
+    height: 30px;
+    text-align: center;   
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#minhasHabilidades{
+    width: 170px;
+    height: 35px;
+    text-align: center;
+    float: left;    
+}
